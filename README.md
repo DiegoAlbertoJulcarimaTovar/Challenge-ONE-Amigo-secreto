@@ -1,3 +1,6 @@
+
+![Badge Completado](https://img.shields.io/badge/STATUS-COMPLETADO-green)  ![Badge Completado](https://img.shields.io/badge/release%20date-August-green)
+ 
 # Sorteo de Amigo Secreto
 
 Este proyecto es una implementación sencilla en JavaScript, HTML y CSS para realizar un **sorteo de amigos**. El usuario puede agregar nombres a una lista y posteriormente seleccionar uno de ellos de forma aleatoria.
